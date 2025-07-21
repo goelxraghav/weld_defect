@@ -1,6 +1,7 @@
 import streamlit as st
 from ultralytics import YOLO
 from PIL import Image
+import cv2
 
 # Using caching to load the model only once
 @st.cache_resource
