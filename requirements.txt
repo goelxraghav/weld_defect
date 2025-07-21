@@ -6,3 +6,4 @@ streamlit
 ultralytics
 ipykernel
 Pillow
+opencv-python
